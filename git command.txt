@@ -1,0 +1,8 @@
+- Open git repo in vs code
+    - Copy repo link in github
+    - ctrl + shift + P to open Command Pallete
+    - type Git: Clone
+    - paste the repo link url, press enter
+
+- Push it back to github
+    - 
