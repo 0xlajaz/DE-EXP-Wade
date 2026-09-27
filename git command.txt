@@ -1,8 +1,13 @@
-- Open git repo in vs code
+# Manage git repo in vscode
+- Open git repo in vscode
     - Copy repo link in github
-    - ctrl + shift + P to open Command Pallete
-    - type Git: Clone
-    - paste the repo link url, press enter
+    - Ctrl + shift + P to open Command Pallete
+    - Type Git: Clone
+    - Paste the repo link url, press enter
 
-- Push it back to github
-    - 
+- Push it back to github from vscode
+    - Go to Source Control or Ctrl + Shift + G
+    - Write message in the text box
+    - Click commit
+    - Click push
+    - Refresh github repo to see the changes
